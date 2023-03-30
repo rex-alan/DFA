@@ -18,5 +18,11 @@
 ![6](https://user-images.githubusercontent.com/109333115/228617708-a6d6c86a-6095-42ba-ba97-1b800b8da477.png)
 
 # 7.Create a DFA to Validate Username
-![User_Name](https://user-images.githubusercontent.com/109333115/228617764-c6410f48-3d45-4a1c-b051-83b67c3224ea.png)
+![User_Name](https://user-images.githubusercontent.com/109333115/228783330-ba74360b-0b71-4a2e-8ba8-425617f87eff.png)
 
+# 8.Create a DFA to Validate Password
+# Password must be of length 7 or more. Must contain at least one of each of the following: “a-z”, “A-Z”, “0-9”, Symbols:“!,@,#,$,%,^,&,*,(,)”. 
+![Password](https://user-images.githubusercontent.com/109333115/228782566-ee5db8fb-7bf4-4d5c-9184-19b4700ae155.png)
+
+# 9. Create a DFA to Validate Simple Email ID
+# Email ID contains two parts: Name and Domain separated by @. For Name follow the same rules to be followed for Username.
