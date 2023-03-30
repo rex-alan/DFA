@@ -14,7 +14,7 @@
 # 5.Create DFA for (a+b*c) 
 ![5](https://user-images.githubusercontent.com/109333115/228617585-0ceb7f49-56fe-40e4-b96f-eb78f5ca7c4b.png)
 
-# 6.Create DFA for (a*b+c*)
+# 6.Create DFA for (a* b+ c*)
 ![6](https://user-images.githubusercontent.com/109333115/228617708-a6d6c86a-6095-42ba-ba97-1b800b8da477.png)
 
 # 7.Create a DFA to Validate Username
