@@ -8,7 +8,7 @@
 # 3.Create DFA for (ab)* including Empty String
 ![3](https://user-images.githubusercontent.com/109333115/228617286-4f967d36-5c1d-4429-9515-15a28d04713c.png)
 
-# 4.Create DFA for (a*b*)
+# 4.Create DFA for (a* b*)
 ![4](https://user-images.githubusercontent.com/109333115/228617385-1638767b-5010-437a-8479-c03edb05c720.png)
 
 # 5.Create DFA for (a+b*c) 
