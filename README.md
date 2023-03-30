@@ -26,3 +26,4 @@
 
 # 9. Create a DFA to Validate Simple Email ID
 # Email ID contains two parts: Name and Domain separated by @. For Name follow the same rules to be followed for Username.
+![Mail](https://user-images.githubusercontent.com/109333115/228787570-f2c9dec3-e82b-4833-af00-75dd6d9dbecb.png)
